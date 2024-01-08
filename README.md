@@ -49,8 +49,4 @@
 
 <br clear="both">
 
-    github_user_name: ${{ henriqueACK }}
-    outputs:
-      dist/github-snake-dark.svg?palette=github-dark
-
 ###
